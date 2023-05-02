@@ -1,0 +1,13 @@
+{
+  "movies": [
+
+    {
+      "id": "2",
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "Fantasy",
+      "director": "George R. R. Martin",
+      "poster": "the_godfather.jpg"
+    }
+  ]
+}
