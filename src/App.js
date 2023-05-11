@@ -18,7 +18,8 @@ const Home = () =>
     <div className="bg-[#111] w-screen overflow-x-hidden">
       <Navbar />
       <Banner />
-      <Row title="Movies" isLargeRow movies={movieconst}/>
+      <Row title="Movies" isLargeRow Json={movieconst}/>
+      <Row title="Series" isLargeRow Json={movieconst} isSeries/>
     </div>
   </React.Fragment>
   ;
@@ -28,11 +29,11 @@ function App() {
  
 
   return (
-    <div className="bg-[#111] w-screen overflow-x-hidden">
+    <div className="bg-[#111] w-screen overflow-x-hidden background-app">
         <Route path='/'>
           {<Home/>}
         </Route>
-        <Route path="/view/:id">{<SingleMovie/>}</Route>
+        <Route path="/view/:id/:path">{(params) => <SingleMovie path={params.path} id={params.id}/>}</Route>
      </div>
   );
 }

@@ -7,7 +7,8 @@
       "year": 1972,
       "genre": "Fantasy",
       "director": "George R. R. Martin",
-      "poster": "/moviescarat/the_godfather.jpg"
+      "poster": "/moviescarat/the_godfather.jpg",
+      "path": "lana.mp4"
     },
     {
       "id":"9",
@@ -15,7 +16,8 @@
       "year": 1974,
       "genre": "Fantasy",
       "director": "George R. R. Martin",
-      "poster": "/moviescarat/the_shawshank_redemption.jpg"
+      "poster": "/moviescarat/the_shawshank_redemption.jpg",
+      "path": "cascada-158229.mp4"
 
     },
     {
@@ -24,7 +26,8 @@
       "year": 1977,
       "genre": "Fantasy",
       "director": "George R. R. Martin",
-      "poster": "/moviescarat/the_godfather-2.jpg"
+      "poster": "/moviescarat/the_godfather-2.jpg",
+      "path": "cascada-158229.mp4"
     },
     {
       "id":"1516541",
@@ -32,7 +35,8 @@
       "year": 1977,
       "genre": "Fantasy",
       "director": "George R. R. Martin",
-      "poster": "/moviescarat/the_godfather-2.jpg"
+      "poster": "/moviescarat/the_godfather-2.jpg",
+      "path": "cascada-158229.mp4"
     },
     {
       "id":"651651",
@@ -40,7 +44,8 @@
       "year": 1977,
       "genre": "Fantasy",
       "director": "George R. R. Martin",
-      "poster": "/moviescarat/the_godfather-2.jpg"
+      "poster": "/moviescarat/the_godfather-2.jpg",
+      "path": "lana.mp4"
     }
   ]
 }
